@@ -1,2 +1,2 @@
-# Animated-Background
-Home page with animation in the background
+   #                                                          Animated-Background
+                                              Home page with animation in the background
